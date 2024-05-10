@@ -1,5 +1,11 @@
 # 使用 cvtek 将 toml 文件生成简历
 
+## 安装 cvtek
+
+```bash
+cargo install --git https://github.com/varbhat/cvtek
+```
+
 ## 使用方法
 
 ```bash
