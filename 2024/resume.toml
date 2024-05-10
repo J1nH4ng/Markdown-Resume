@@ -23,6 +23,14 @@ timeline = "August 2008 - Present"
 location = "Another place, Earth"
 points = ["I joined this when i had mood to join", "I joined this to prove myself", "I achieved ABC here"]
 
+[[experience]]
+comp_name = "Company ABC"
+comp_link = "https://mygoodcompany.company"
+exp_name = "Engineer"
+timeline = "August 2008 - Present"
+location = "Another place, Earth"
+points = ["I joined this when i had mood to join", "I joined this to prove myself", "I achieved ABC here"]
+
 [[projects]]
 title = "My good project XYZ"
 timeline = "January 2006 - Present"
