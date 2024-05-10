@@ -1,0 +1,35 @@
+[header]
+full_name = "Johe doe"
+email_addr = "john@doe.com"
+github_username = "github"
+linkedin_username = "linkedin"
+location = "Suzhou, Jiangsu, China"
+phone_number = "1234567890"
+
+[[education]]
+course_name = "Bachelor of Technology in Computer Science"
+timeline = "August 2003 - July 2007"
+university_name = "University at My Place"
+university_link = "https://myopenuniversity.university"
+location = "Another Place, Earth"
+course_grade = "A"
+points = ["Did some useful work Y", "Did some useful work Z"]
+
+[[experience]]
+comp_name = "Company ABC"
+comp_link = "https://mygoodcompany.company"
+exp_name = "Engineer"
+timeline = "August 2008 - Present"
+location = "Another place, Earth"
+points = ["I joined this when i had mood to join", "I joined this to prove myself", "I achieved ABC here"]
+
+[[projects]]
+title = "My good project XYZ"
+timeline = "January 2006 - Present"
+project_link = "https://github.com/github"
+description = "Some incredible project that I created"
+points = ["I created this when i had mood to create", "I created this to prove myself"]
+
+[skills]
+Technologies = "A, B, C, D, E, F, G, H, whatever"
+Frameworks = "ABC, DEF, GHI, JKL, whatever"
