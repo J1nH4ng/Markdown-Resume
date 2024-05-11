@@ -10,7 +10,7 @@
 cargo install --git https://github.com/varbhat/cvtek
 ```
 
-### 安装修改的 cvtek
+### 🚧安装修改的 cvtek （推荐国内用户使用）
 
 ```bash
 cargo install --git https://github.com/J1nH4ng/cvtek
@@ -36,7 +36,7 @@ cvtek -f ./resume.toml -t resume.tex
 # 使用在线工具转换为 resume.pdf
 ```
 
-### 修改版的 cvtek 的使用方法（推荐国内用户使用）
+### 🚧修改版的 cvtek 的使用方法（推荐国内用户使用）
 
 ```bash
 cvtek -t resume.toml
