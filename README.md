@@ -52,3 +52,4 @@ cvtek -f ./resume.toml -t resume-cn.tex
 - [ ] 完善中文模板
 - [ ] 完善生成文件为中文文档
 - [ ] 完善 README 文档
+- [ ] 发布 v0.1.0 版本包
