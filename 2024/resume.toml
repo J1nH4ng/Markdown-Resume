@@ -1,9 +1,9 @@
 [header]
-full_name = "Johe doe"
-email_addr = "john@doe.com"
-github_username = "github"
+full_name = "金航"
+email_addr = "jinhang@mail.14bytes.com"
+github_username = "J1nH4ng"
 linkedin_username = "linkedin"
-location = "Suzhou, Jiangsu, China"
+location = "中国，江苏，苏州"
 phone_number = "1234567890"
 
 [[education]]
